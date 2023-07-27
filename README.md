@@ -23,3 +23,6 @@ What factors influence the happiness score?
 Which countries have the highest and lowest happiness score?
 
 How has the happiness score changed over time?
+
+# Tableau Storyboard
+Here you can find the [Tableau Storyboard of the project](https://public.tableau.com/app/profile/teo.meriggi/viz/WorldHappinessReport2005-2022_16890019938340/Story1?publish=yes).
